@@ -1,0 +1,6 @@
+# wobble web
+
+WobbleWeb is a hybrid graphics editor and coding environment for making and sharing small-scale websites. It provides a gentle and playful introduction to coding in JavaScript and HTML, where dragging something on the page changes the code, and editing the code changes what is on the screen. The project is built upon a set of open-source web components that can be used with the editor as well as independently. The web components serve as a direct wrapper to HTML, adding gesture-based and direct in-browser editing capabilities to existing HTML and Web APIs. The extensible custom elements allow the open-source community to build more advanced features, such as incorporating canvas elements, WebGL, or integration with backend APIs. WobbleWeb differs from existing graphical webpage builders, with its emphasis on writing JavaScript for beginners, as well as its modular and extensible ecosystem.
+
+Wobble Web is funded by [NLnet](https://nlnet.nl) [NGI Zero Core](https://nlnet.nl/core/)
+https://nlnet.nl/project/WobbleWeb/
