@@ -50,7 +50,9 @@
  h1, h2, .title-wrapper {
     font-family: var(--sl-header-font);
     font-weight: 200;
-   
+    /* text-decoration-style: wavy; */
+    /* text-decoration-line: underline; */
+    /* text-decoration-color: var(--sl-color-accent); */
 }
 
 h1 {
